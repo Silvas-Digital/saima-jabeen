@@ -29,22 +29,22 @@ export const initializeCommon = () => {
         });
     }
     BIRDS({
-    el: "#vanta-bg", // Make sure this ID exists in your HTML
-    THREE: THREE,
-    mouseControls: true,
-    touchControls: true,
-    gyroControls: false,
-    minHeight: 200.00,
-    minWidth: 200.00,
-    scale: 1.00,
-    scaleMobile: 1.00,
-    backgroundColor: 0x1f0034,
-    color1: 0xff4bc1,
-    color2: 0xff0dcd,
-    colorMode: "lerpGradient",
-    birdSize: 0.90,
-    quantity: 5.00
-  });
+        el: "#vanta-bg",
+        THREE: THREE,
+        mouseControls: true,
+        touchControls: true,
+        gyroControls: false,
+        minHeight: 200.00,
+        minWidth: 200.00,
+        scale: 1.00,
+        scaleMobile: 1.00,
+        backgroundColor: 0x07232b,  // Primary color
+        color1: 0x52ab98,          // Secondary color
+        color2: 0xc8d8e4,          // Accent color
+        colorMode: "lerpGradient",
+        birdSize: 0.90,
+        quantity: 3.00
+    });
 };
 
 

@@ -1,7 +1,7 @@
 {
-  "name": "Doaa_Haydar",
+  "name": "saima-jabeen",
   "version": "1.0.0",
-  "description": "official website of Doaa Haydar",
+  "description": "official website of Saima Jabeen",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Silvas-Digital/Doaa-Haydar"
+    "url": "git+https://github.com/Silvas-Digital/saima-jabeen"
   },
   "author": "Silva-Mo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Silvas-Digital/Doaa-Haydar/issues"
+    "url": "https://github.com/Silvas-Digital/saima-jabeen/issues"
   },
-  "homepage": "https://github.com/Silvas-Digital/Doaa-Haydar#readme",
+  "homepage": "https://github.com/Silvas-Digital/saima-jabeen#readme",
   "devDependencies": {
     "copy-webpack-plugin": "^13.0.0",
     "css-loader": "^7.1.2",
